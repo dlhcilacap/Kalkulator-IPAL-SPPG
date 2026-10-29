@@ -1,0 +1,17 @@
+{
+  "name": "Kalkulator IPAL SPPG",
+  "short_name": "IPAL SPPG",
+  "description": "Kalkulator kapasitas IPAL SPPG teknologi MBBR sesuai Kepmen LHK No. 2760 Tahun 2025. DLH Kabupaten Cilacap.",
+  "lang": "id",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f2f6f6",
+  "theme_color": "#0b7480",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Logo Kalkulator IPAL SPPG">
+  <rect width="512" height="512" rx="112" fill="#0b7480"/>
+  <path d="M0 360 Q128 330 256 360 T512 360 V512 H0Z" fill="#095f69"/>
+  <path d="M256 70 C256 70 128 214 128 314 A128 128 0 0 0 384 314 C384 214 256 70 256 70Z" fill="#ffffff"/>
+  <circle cx="256" cy="318" r="74" fill="#0b7480"/>
+  <circle cx="256" cy="318" r="56" fill="none" stroke="#ffffff" stroke-width="10"/>
+  <path d="M256 262 V374 M200 318 H312 M216 278 L296 358 M296 278 L216 358" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="256" cy="318" r="14" fill="#f59e0b"/>
+  <circle cx="392" cy="150" r="20" fill="none" stroke="#bfe6e8" stroke-width="8"/>
+  <circle cx="418" cy="96" r="12" fill="none" stroke="#bfe6e8" stroke-width="7"/>
+  <circle cx="368" cy="84" r="8" fill="#bfe6e8"/>
+</svg>
